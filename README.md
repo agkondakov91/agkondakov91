@@ -13,7 +13,20 @@
 
 ## Technologies & Tools 
 
-![Static Badge](https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=css3&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=figma&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/photoshop-green?style=for-the-badge&logo=adobephotoshop&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/illustrator-green?style=for-the-badge&logo=adobeillustrator&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/javascript-green?style=for-the-badge&logo=javascript&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/redux-green?style=for-the-badge&logo=redux&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/typescript-green?style=for-the-badge&logo=typescript&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/webpack-green?style=for-the-badge&logo=webpack&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/jest-green?style=for-the-badge&logo=jest&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/cypress-green?style=for-the-badge&logo=cypress&logoColor=%235DD922&color=%23121212)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agkondakov91&show_icons=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
