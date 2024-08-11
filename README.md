@@ -1,6 +1,6 @@
 ![header](https://github.com/user-attachments/assets/53f3fc9a-810c-437c-ba25-3347c7235445)
 
-## Обо мне
+## About me
 
 Привет, меня зовут Александр. С 2018 года я занимаюсь цифровым дизайном. 
 
@@ -9,7 +9,12 @@
 
 В 2023 году я с головой погрузился в интересный мне мир фронтенд-разработки вместе с курсами от Яндекс Практикум. 
 
-## Технологии
+Увлекаюсь миром продуктового дизайна и слежу за [**дайджестом Юрия Ветрова**](https://jvetrau.com/).
+
+## Technologies & Tools 
+
+![Static Badge](https://img.shields.io/badge/HTML-green?style=flat&logo=html5&logoColor=%235DD922&color=%23121212)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agkondakov91&show_icons=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
