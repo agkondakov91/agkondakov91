@@ -26,10 +26,20 @@
 ![Static Badge](https://img.shields.io/badge/typescript-green?style=for-the-badge&logo=typescript&logoColor=%235DD922&color=%23121212)
 ![Static Badge](https://img.shields.io/badge/webpack-green?style=for-the-badge&logo=webpack&logoColor=%235DD922&color=%23121212)
 ![Static Badge](https://img.shields.io/badge/jest-green?style=for-the-badge&logo=jest&logoColor=%235DD922&color=%23121212)
-![Static Badge](https://img.shields.io/badge/cypress-green?style=for-the-badge&logo=cypress&logoColor=%235DD922&color=%23121212)
+![Static Badge](https://img.shields.io/badge/cypress-green?style=for-the-badge&logo=cypress&logoColor=%235DD922&color=%23121212) 
 
+## Extra 
+
+* Знаком с методологией БЭМ и стараюсь применять её в каждом из своих проектов
+* Знаком с принципами и фишками построения гибких сеток с помощью flex/grid технологий
+* Знаком с Document Object Model и умею управлять HTML-разметкой из JavaScript-кода
+* Знаком с понятием асинхронного кода, Promise, Event loop и очередью событий
+* Знаком с библиотекой Swiper для создания слайдеров на веб-страницах
+
+## Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agkondakov91&show_icons=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agkondakov91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **agkondakov91/agkondakov91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
