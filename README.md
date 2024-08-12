@@ -39,7 +39,7 @@
 ## Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agkondakov91&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Codewars](https://github.r2v.ch/codewars?user=agkondakov91&stroke=%5DD922)
+[![codewars](https://www.codewars.com/users/agkondakov91/badges/large)](https://www.codewars.com/users/agkondakov91) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agkondakov91&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
